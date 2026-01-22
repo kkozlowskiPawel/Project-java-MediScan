@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_scanner" android:title="Skaner" android:icon="@mipmap/ic_launcher_foreground" />
+    <item android:id="@+id/nav_list" android:title="Apteczka" android:icon="@mipmap/ic_launcher_foreground" />
+    <item android:id="@+id/nav_calendar" android:title="Kalendarz" android:icon="@mipmap/ic_launcher_foreground" />
+</menu>
