@@ -1,17 +1,14 @@
 /build
-# Built application files
+/captures
 *.apk
 *.aar
 *.ap_
 *.aab
 
-# Files for the ART/Dalvik VM
 *.dex
 
-# Java class files
 *.class
 
-# Generated files
 bin/
 gen/
 out/
@@ -22,3 +19,6 @@ build/
 local.properties
 .DS_Store
 Thumbs.db
+
+.externalNativeBuild
+.cxx
