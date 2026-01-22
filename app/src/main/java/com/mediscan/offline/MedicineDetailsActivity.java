@@ -40,7 +40,6 @@ public class MedicineDetailsActivity extends AppCompatActivity {
 
         seekBar.setProgress(currentStockValue);
 
-        // Obsługa zmiany ilości
         seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
